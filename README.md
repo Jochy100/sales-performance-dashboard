@@ -26,6 +26,6 @@ Sales_Performance_Report.pdf – Exported summary report
 
 👩‍💻 About the Analyst
 Jochebed Ogbemudia
-Aspiring Data Analyst passionate about turning business questions into insights.
+Data Analyst passionate about turning business questions into insights.
 LinkedIn Profile (https://www.linkedin.com/in/jochebed-ogbemudia-9926b2183/)
 
